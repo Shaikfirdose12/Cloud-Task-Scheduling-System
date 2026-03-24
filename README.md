@@ -68,45 +68,28 @@ The scheduler uses Decision Tree logic and load balancing strategies to assign t
 
 ## 📱 App Screenshots
 
-<h3 align="center">1. Home Page</h3>
 <p align="center">
-  <img src="home.png" width="250"/>
+  <img src="Screenshots-homepage.jpeg" width="250"/>
+  <img src="Screenshots-datacentre.jpeg" width="250"/>
 </p>
 
-<h3 align="center">2. Data Center Creation</h3>
 <p align="center">
-  <img src="datacenter.png" width="250"/>
+  <img src="Screenshots-broker.jpeg" width="250"/>
+  <img src="Screenshots-Virtual.jpeg" width="250"/>
 </p>
 
-<h3 align="center">3. Broker Creation</h3>
 <p align="center">
-  <img src="broker.png" width="250"/>
+  <img src="Screenshots-job_creation.jpeg" width="250"/>
+  <img src="Screenshots-File_uploading.jpeg" width="250"/>
 </p>
 
-<h3 align="center">4. Virtual Machine Creation</h3>
 <p align="center">
-  <img src="vm.png" width="250"/>
+  <img src="Screenshots-Upload.jpeg" width="250"/>
+  <img src="Screenshots-Task_Scheduling.jpeg" width="250"/>
 </p>
 
-<h3 align="center">5. Jobs Creation</h3>
-<p align="center">
-  <img src="jobs.png" width="250"/>
-</p>
 
-<h3 align="center">6. File Uploading</h3>
-<p align="center">
-  <img src="fileupload.png" width="250"/>
-</p>
 
-<h3 align="center">7. Upload File to VM</h3>
-<p align="center">
-  <img src="uploadvm.png" width="250"/>
-</p>
-
-<h3 align="center">8. Task Scheduling</h3>
-<p align="center">
-  <img src="taskscheduling.png" width="250"/>
-</p>
 
 ---
 
