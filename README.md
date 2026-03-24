@@ -72,7 +72,8 @@ The scheduler uses Decision Tree logic and load balancing strategies to assign t
 ---
 
 ## 📂 Documentation
-Detailed project documentation is available in the **PROJECT_DOC.pdf** file.
+
+Detailed project documentation is available here: [PROJECT_DOC.pdf](PROJECT_DOC.pdf)
 
 ---
 
