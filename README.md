@@ -71,9 +71,11 @@ The scheduler uses Decision Tree logic and load balancing strategies to assign t
 
 ---
 
-## 📂 Documentation
+## 📄 Documentation
 
-Detailed project documentation is available here: [PROJECT_DOC.pdf](PROJECT_DOC.pdf)
+<p align="center">
+  <a href="https://github.com/Shaikfirdose12/Cloud-Task-Scheduling-System/blob/main/PROJECT%20DOC.pdf"><b>📥 Open Project Documentation</b></a>
+</p>
 
 ---
 
